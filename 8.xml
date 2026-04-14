@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<product>
+    <item>
+        <name> Book </name>
+        <price> 150 </price>
+        <qty> 2 </qty>
+    </item>
+    <item>
+        <name> Pen </name>
+        <price> 50 </price>
+        <qty> 1 </qty>
+    </item>
+    <item>
+        <name> Pencil </name>
+        <price> 5 </price>
+        <qty> 2 </qty>
+    </item>
+    <item>
+        <name> NoteBook </name>
+        <price> 40 </price>
+        <qty> 2 </qty>
+    </item>
+    <item>
+        <name> Book </name>
+        <price> 150 </price>
+        <qty> 2 </qty>
+    </item>
+</product>

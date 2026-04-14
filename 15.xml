@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+    <Category name="Horror">
+        <MovieTitle>Bhootnath</MovieTitle >
+        <ActorName>Amitabh bacchan</ActorName>
+        <ReleaseYear>2007</ReleaseYear>
+    </Category>
+    <Category name="Classical">
+        <MovieTitle>ABC</MovieTitle >
+        <ActorName>Shahruk Khan</ActorName>
+        <ReleaseYear>2005</ReleaseYear>
+    </Category>
+    <Category name="Action">
+        <MovieTitle>XYZ</MovieTitle >
+        <ActorName>Salman Khan</ActorName>
+        <ReleaseYear>2009</ReleaseYear>
+    </Category>
+</movie>

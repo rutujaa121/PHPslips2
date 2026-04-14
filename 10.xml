@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+    <bookinfo>
+        <book>
+            <bno> 111 </bno>
+            <bname> Rutuja </bname>
+            <year> 2026 </year>
+            <price> 300 </price>
+        </book>
+    </bookinfo>

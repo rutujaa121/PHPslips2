@@ -1,0 +1,14 @@
+name{
+    color:red;
+    Font-family : copperplate Gothic Light;                                      
+    Font-size : 16pt; 
+    Font :bold;
+    display: block;
+}
+price,qty{
+    color:yellow; 
+    font-family:Arial;    
+    font-size:12 pt;  
+    font:bold;
+    display: block;
+}
